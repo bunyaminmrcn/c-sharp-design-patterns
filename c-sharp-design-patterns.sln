@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{8D4BD4BD-8A2C-4CEC-B297-E4EC80530862}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{FA2C83F0-3036-4F63-8DE0-27B67C22EAD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8D4BD4BD-8A2C-4CEC-B297-E4EC80530862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D4BD4BD-8A2C-4CEC-B297-E4EC80530862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D4BD4BD-8A2C-4CEC-B297-E4EC80530862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2C83F0-3036-4F63-8DE0-27B67C22EAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2C83F0-3036-4F63-8DE0-27B67C22EAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2C83F0-3036-4F63-8DE0-27B67C22EAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2C83F0-3036-4F63-8DE0-27B67C22EAD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
